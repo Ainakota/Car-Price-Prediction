@@ -1,6 +1,6 @@
 # Car-Price-Prediction
 
-To determine a car's worth depending on a range of factors, a model to forecast its price should be created. The price of a used car is influenced by a number of variables, including the manufacturer, model, year, gearbox, mileage, fuel type, seller type, and owner type. As a result, prior to buying  an automobile, it is essential to understand its true market value.
+To determine a car's worth depending on a range of factors, a model to forecast its price should be created. The price of a car is influenced by a number of variables, including the manufacturer, model, year, gearbox, mileage, fuel type, seller type, and owner type. As a result, prior to buying  an automobile, it is essential to understand its true market value.
 
 We employed feature engineering in this project because, when the model was fitted to the training data and tested on the test data, it was discovered that the predicted values' scores varied greatly.
 
